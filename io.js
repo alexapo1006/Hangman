@@ -1,5 +1,6 @@
 //Support functions for COMP1812 and COMP1345
 //version2 - Works for Windows only
+//Copyright Dr Chris Bowers - University of Worcester
 module.exports = {
 
 
